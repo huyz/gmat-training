@@ -1,0 +1,15 @@
+GMAT Training
+=============
+
+How gmat_memorize_idioms works
+------------------------------
+
+This is the memorization program that I wrote for myself in 2010 to memorize English idioms for the GMAT. I'm putting it out there, as it may be helpful to others. It helped me score a 780.
+
+You can use the program directly at http://huyz.us/gmat/.
+
+It works similarly to flash cards. You are presented with an English sentence example, and you need to answer whether the capitalized idiom is considered right, wrong, or suspect, as defined by the Manhattan GMAT. The program tracks your incorrect answers through all the idioms that it knows, and then it starts another round with all the examples that you missed, and so on through multiple rounds until you have properly judged all the idioms. Going through all the rounds may take around an hour or more, as the selected idioms are quite difficult and often counter-intuitive.
+
+What has worked for me is to train a few times at least a week from the test date, and then again the day before.
+
+This tool is a companion to the excellent [Manhattan GMAT Preparation Guide: Sentence Correction](http://www.amazon.com/gp/product/0982423861/ref=as_li_tf_tl?ie=UTF8&tag=huyzus-20&linkCode=as2&camp=217153&creative=399353&creativeASIN=0982423861). Using the memorizer will not be of much benefit to you until you buy and read the guide first to get context about idioms. An absolute must-have for the GMAT.
