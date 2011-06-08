@@ -98,7 +98,7 @@ use vars;
 # So that we can prompt
 use Term::Menu;
 my $menu = new Term::Menu (
-  beforetext => "Evaluate the capitalized IDIOM according to the GMAC: ",
+  beforetext => "Evaluate the capitalized IDIOM according to the GMAT:",
   aftertext => "Enter the letter and press <Enter>: ",
   tries => 999, # Bug in Term::Menu, 0 is not unlimited
 );
