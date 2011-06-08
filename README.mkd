@@ -13,3 +13,10 @@ It works similarly to flash cards. You are presented with an English sentence ex
 What has worked for me is to train a few times at least a week from the test date, and then again the day before.
 
 This tool is a companion to the excellent [Manhattan GMAT Preparation Guide: Sentence Correction](http://www.amazon.com/gp/product/0982423861/ref=as_li_tf_tl?ie=UTF8&tag=huyzus-20&linkCode=as2&camp=217153&creative=399353&creativeASIN=0982423861). Using the memorizer will not be of much benefit to you until you buy and read the guide first to get context about idioms. An absolute must-have for the GMAT.
+
+How gmat_memorize_math works
+----------------------------
+
+This is a simple memorization program that I wrote for myself in 2010 to memorize some math computations.  I'm putting it out there, as it may be helpful to others.
+
+It works similarly to flash cards.  It prompts you for a computation. You speak the answer out loud (the program will ignore you), then hit <ENTER> to see the answer.
