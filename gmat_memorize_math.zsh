@@ -18,8 +18,8 @@
 # <ENTER> to see the answer.
 #
 # TODO:
-# - write a program to list all the primes to 101
 # - test for some pythagorean triples
+# - write a separate program to test all the primes to 101
 
 # Copyright (C) 2011 Huy Z
 # 

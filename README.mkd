@@ -20,3 +20,8 @@ How gmat_memorize_math works
 This is a simple memorization program that I wrote for myself in 2010 to memorize some math computations.  I'm putting it out there, as it may be helpful to others.
 
 It works similarly to flash cards.  It prompts you for a computation. You speak the answer out loud (the program will ignore you), then hit <ENTER> to see the answer.
+
+TODO:
+
+-   test for some pythagorean triples
+-   write a separate program to test all the primes to 101
